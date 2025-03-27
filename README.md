@@ -66,3 +66,18 @@ php artisan migrate --seed
 ### Products
 ![Dashboard Screenshot](public/assets/images/screenshots/product.png)
 
+### Github
+
+```bash
+If you download this project from Github
+
+composer install
+npm install
+connect database to .env
+php artisan key:generate
+php artisan storage:link
+php artisan migrate --seed
+npm run dev
+php artisan serve
+```
+
