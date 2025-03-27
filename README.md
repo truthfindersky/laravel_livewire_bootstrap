@@ -64,4 +64,4 @@ php artisan migrate --seed
 ![Dashboard Screenshot](public/assets/images/screenshots/login.png)
 
 ### Products
-![Dashboard Screenshot](public/assets/images/screenshots/products.png)
+![Dashboard Screenshot](public/assets/images/screenshots/product.png)
