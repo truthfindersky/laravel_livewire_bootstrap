@@ -7,9 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Project
+## About this Project
 
-This project was built using Laravel 12, Livewire, and Bootstrap 5 Admin template (sass) to create a dynamic and interactive web application.
+This project was built using Laravel 12, Livewire 3.6, and Bootstrap 5 Admin template (sass) to create a dynamic and interactive web application.
 
 ### Scaffolding
 
