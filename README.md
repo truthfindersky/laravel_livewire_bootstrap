@@ -64,4 +64,5 @@ php artisan migrate --seed
 ![Dashboard Screenshot](public/assets/images/screenshots/login.png)
 
 ### Products
-![Dashboard Screenshot](public/assets/images/screenshots/product.png)
+<img src="public/assets/images/screenshots/product.png" alt="Dashboard Screenshot" style="border: 1px solid #000;">
+
