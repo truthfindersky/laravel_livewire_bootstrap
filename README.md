@@ -9,7 +9,7 @@
 
 ## About Project
 
-This project is built using Laravel 12, Livewire, and Bootstrap 5 Admin template (sass) to create a dynamic and interactive web application.
+This project was built using Laravel 12, Livewire, and Bootstrap 5 Admin template (sass) to create a dynamic and interactive web application.
 
 ### Scaffolding
 
