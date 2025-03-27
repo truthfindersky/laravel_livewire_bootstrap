@@ -10,7 +10,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Modernize Free</title>
 
-  @vite(['resources/css/app.css', 'resources/js/app.js'])
+  @vite(['resources/scss/styles.scss', 'resources/js/app.js'])
 </head>
 
 <body>
